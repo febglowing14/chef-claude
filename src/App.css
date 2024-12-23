@@ -1,0 +1,25 @@
+#first{
+  display: flex;
+  align-content: center;
+  padding-left: 40%;
+  background-color: antiquewhite;
+  gap: 5%;
+}
+#one{
+  width: 10%;
+  height: 10%;
+  padding-top: 1%;
+
+}
+#box{
+  display: flex;
+  justify-content: center;
+  padding-top:5%;
+  gap: 3%;
+}
+.buttons{
+  border: none;
+  background-color: black;
+  color: white;
+  font-weight: 70%;
+}
